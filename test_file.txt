@@ -1,0 +1,2 @@
+Hello, this is a test of branching on Github.
+Coding is cool, roses are red, why are you reading this if you don't care?
